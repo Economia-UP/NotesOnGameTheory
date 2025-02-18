@@ -1,0 +1,12 @@
+h1:date-r-sys.date date: 
+h1:url-your-book-url-like-httpsbookdown.orgyihuibookdown url: your book url like https://bookdown.org/yihui/bookdown
+h1:cover-image-path-to-the-social-sharing-image-like-imagescover.jpg cover-image: path to the social sharing image like images/cover.jpg
+h1:description description: |
+h1:this-is-a-minimal-example-of-using-the-bookdown-package-to-write-a-book. This is a minimal example of using the bookdown package to write a book.
+h1:the-html-output-format-for-this-example-is-bookdowngitbook The HTML output format for this example is bookdown::gitbook,
+h1:set-in-the-_output.yml-file. set in the _output.yml file.
+h1:about About
+h2:usage Usage
+h2:render-book Render book
+h2:preview-book Preview book
+
